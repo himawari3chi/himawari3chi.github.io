@@ -1,0 +1,64 @@
+a#HomeMenu {
+	display:block;
+	width:128px;
+	height:32px;
+	background-image:url(../img/home.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+}
+a#HomeMenu:hover {
+	background-image:url(../img/home-over.png);
+}
+
+a#KidsMenu {
+	display:block;
+	width:128px;
+	height:32px;
+	background-image:url(../img/kids.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+}
+a#KidsMenu:hover {
+	background-image:url(../img/kids-over.png);
+}
+
+a#CampMenu {
+	display:block;
+	width:128px;
+	height:32px;
+	background-image:url(../img/camp.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+}
+a#CampMenu:hover {
+	background-image:url(../img/camp-over.png);
+}
+
+a#MyHomeMenu {
+	display:block;
+	width:128px;
+	height:32px;
+	background-image:url(../img/myhome.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+}
+a#MyHomeMenu:hover {
+	background-image:url(../img/myhome-over.png);
+}
+
+a#RoadMenu {
+	display:block;
+	width:128px;
+	height:32px;
+	background-image:url(../img/road.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+}
+a#RoadMenu:hover {
+	background-image:url(../img/road-over.png);
+}
